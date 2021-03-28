@@ -1,7 +1,7 @@
 package com.nathan;
 
 public class LinkedList {
-    private Node head; // Dado que o nós dos elementos apontam um pro outro eu só preciso saber o primeiro nó
+    private Node head; // Dado que o nó dos elementos apontam um pro outro eu só preciso saber o primeiro nó
     private int size; // Tamanho da lista pra não precisar percorrer todos os nós
 
     public LinkedList() {
